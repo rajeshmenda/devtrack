@@ -47,4 +47,15 @@ I keep the domain classes (`Issue`, `CriticalIssue`, `LowPriorityIssue`, and `Re
 ## Postman tests
 
 Test the endpoints in Postman against `http://127.0.0.1:8000`. Save screenshots in `docs/` and add them here.
-Add one success screenshot and one failure screenshot under `docs/postman-success.png` and `docs/postman-failure.png`.
+
+### Success example
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![Postman success example](docs/postman-success.png)
+
+### Failure example
+
+![Postman failure example](docs/postman-failure.png)
