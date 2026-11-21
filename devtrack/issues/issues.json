@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "screen flicker",
+    "description": "screen is flickering every time",
+    "status": "open",
+    "priority": "critical",
+    "reported_id": "raje12",
+    "created_at": "2026-10-21 03:22:49.622929"
+  },
+  {
+    "id": 2,
+    "title": "screen flicker",
+    "description": "screen is flickering every time",
+    "status": "open",
+    "priority": "low",
+    "reported_id": "raje12",
+    "created_at": "2026-10-21 03:23:04.013662"
+  },
+  {
+    "id": 3,
+    "title": "screen flicker",
+    "description": "screen is flickering every time",
+    "status": "open",
+    "priority": "critical",
+    "reported_id": "raje12",
+    "created_at": "2026-10-28 16:14:04.573249"
+  },
+  {
+    "id": 4,
+    "title": "getting 4o4 error",
+    "description": "getting technincal error",
+    "status": "open",
+    "priority": "critical",
+    "reported_id": "rajesh",
+    "created_at": "2026-10-30 19:41:27.827513"
+  },
+  {
+    "id": 5,
+    "title": "screen flicker",
+    "description": "screen is flickering every time",
+    "status": "closed",
+    "priority": "critical",
+    "reported_id": "rajesh",
+    "created_at": "2026-11-21 17:47:48.175595"
+  },
+  {
+    "id": 6,
+    "title": "Postman verification",
+    "description": "Verified endpoint",
+    "status": "open",
+    "priority": "high",
+    "reporter_id": 1,
+    "created_at": "2026-11-21 18:35:48.461604"
+  }
+]

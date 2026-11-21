@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "screen flicker",
+    "description": "screen is flickering every time",
+    "status": "open",
+    "priority": "critical",
+    "reported_id": "raje12",
+    "created_at": "2026-10-21 03:20:02.905472"
+  }
+]
